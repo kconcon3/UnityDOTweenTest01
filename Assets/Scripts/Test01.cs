@@ -19,9 +19,4 @@ public class Test01 : MonoBehaviour {
 		);
 #endif
 	}
-	
-	// Update is called once per frame
-	void Update () {
-		
-	}
 }
